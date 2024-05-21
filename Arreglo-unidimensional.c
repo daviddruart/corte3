@@ -21,7 +21,7 @@ int main()
     }
 
     // Solicitar al usuario el número a buscar
-    printf("Ingrese el número mayor para encontrar su ubicación: ");
+    printf("Ingrese el número que desea buscar/consultar/encontrar: ");
     scanf("%d", &search_number);
 
     // Buscar el número en el arreglo
