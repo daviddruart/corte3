@@ -15,7 +15,7 @@ int main()
     printf("Ingrese el número inicial para hacer el conteo: ");
     scanf("%d", &start_number);
 
-    // Funcion para v
+    // Funcion para ver la posicion
     for (int i = 0; i < ARREG; i++) {
         array[i] = start_number + i;
     }
